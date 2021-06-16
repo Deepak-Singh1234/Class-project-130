@@ -1,0 +1,16 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.c{
+    float: left;
+}
+
+.d{
+    float: right;
+}
+canvas{
+    border:19px  solid  white;
+    border-radius: 10%;
+}
